@@ -43,6 +43,6 @@ func main() {
 		}
 	}
 	if !success {
-		fmt.Println("You didnt guess my number right. I will EAT YOU!! number was: ", target)
+		fmt.Println("You didnt guess my number right!! I will EAT YOU!! number was: ", target)
 	}
 }
